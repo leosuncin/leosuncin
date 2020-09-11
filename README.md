@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaime Suncin</h1>
-<h3 align="center">A passionate fullstack developer from El Salvador</h3>
+<h3 align="center">A passionate fullstack developer from El Salvador 🇸🇻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leosuncin" alt="leosuncin" /> </p>
 
