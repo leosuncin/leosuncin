@@ -1,6 +1,13 @@
 ![Hi 👋, I'm Jaime Suncin](./assets/banner.svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leosuncin" alt="leosuncin" /> </p>
+![Profile views](https://komarev.com/ghpvc/?username=leosuncin)
+![Commits this month](https://badges.pufler.dev/commits/monthly/leosuncin?color=blue)
+[![Twitter profile](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/jl_suncin)
+[![LinkedIn profile](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/jaimesuncin)
+[![Facebook profile](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=Facebook&logoColor=white)](https://fb.com/jl.suncin)
+[![CodeSanbox profile](https://img.shields.io/badge/CodeSandbox-Profile-informational?style=flat&logo=CodeSandbox&logoColor=white)](https://codesandbox.com/leosuncin)
+[![HackerRank profile](https://img.shields.io/badge/HackerRank-Profile-informational?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/suncin)
+[![StackOverflow profile](https://img.shields.io/badge/StackOverflow-Profile-informational?style=flat&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/jaime-suncin)
 
 - 🌱 I’m currently re-learning **CSS**
 
@@ -53,15 +60,7 @@
 <img src="./assets/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosuncin&layout=compact&hide=html" alt="leosuncin" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosuncin&hide=html,css" alt="leosuncin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leosuncin&show_icons=true" alt="leosuncin" /></p>
 
-<p align="center">
-<a href="https://twitter.com/jl_suncin" target="blank"><img align="center" src="./assets/twitter-original.svg" alt="jl_suncin" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/jaimesuncin" target="blank"><img align="center" src="./assets/linkedin-original.svg" alt="jaimesuncin" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/jaime-suncin" target="blank"><img align="center" src="./assets/stackoverflow-icon.svg" alt="jaime-suncin" height="30" width="30" /></a>
-<a href="https://codesandbox.com/leosuncin" target="blank"><img align="center" src="./assets/codesandbox-icon.svg" alt="leosuncin" height="30" width="30" /></a>
-<a href="https://fb.com/jl.suncin" target="blank"><img align="center" src="./assets/facebook-original.svg" alt="jl.suncin" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/suncin" target="blank"><img align="center" src="./assets/hackerrank-icon.svg" alt="suncin" height="30" width="30" /></a>
-</p>
