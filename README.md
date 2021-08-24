@@ -60,8 +60,12 @@
 <img src="./assets/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
 </p>
 
+<center>
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=leosuncin&show_icons=true&theme=tokyonight)
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leosuncin&hide=html,css&theme=tokyonight)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leosuncin&theme=tokyonight)
+
+</center>
