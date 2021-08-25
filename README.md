@@ -9,56 +9,84 @@
 [![HackerRank profile](https://img.shields.io/badge/HackerRank-Profile-informational?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/suncin)
 [![StackOverflow profile](https://img.shields.io/badge/StackOverflow-Profile-informational?style=flat&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/jaime-suncin)
 
+## About me
+
 - 🌱 I’m currently re-learning **CSS**
 
 - 💬 Ask me about **node.js, react, next, nest**
 
 - 📫 How to reach me [**leosuncin@gmail.com**](mailto:leosuncin@gmail.com)
 
-<p align="left">
-<img src="./assets/bash-original.svg" alt="bash" width="40" height="40"/>
-<img src="./assets/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-<img src="./assets/csharp-original.svg" alt="csharp" width="40" height="40"/>
-<img src="./assets/cypress-io-logo-round.svg" alt="cypress" width="40" height="40"/>
-<img src="./assets/dart-original.svg" alt="dart" width="40" height="40"/>
-<img src="./assets/docker-original.svg" alt="docker" width="40" height="40"/>
-<img src="./assets/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/>
-<img src="./assets/electron-original.svg" alt="electron" width="40" height="40"/>
-<img src="./assets/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-<img src="./assets/figma-original.svg" alt="figma" width="40" height="40"/>
-<img src="./assets/firebase-plain.svg" alt="firebase" width="40" height="40"/>
-<img src="./assets/flutter-original.svg" alt="flutter" width="40" height="40"/>
-<img src="./assets/git-original.svg" alt="git" width="40" height="40"/>
-<img src="./assets/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="./assets/java-original-wordmark.svg" alt="java" width="40" height="40"/>
-<img src="./assets/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="./assets/jest-plain.svg" alt="jest" width="40" height="40"/>
-<img src="./assets/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-<img src="./assets/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="./assets/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
-<img src="./assets/materialize.svg" alt="materialize" width="40" height="40"/>
-<img src="./assets/mocha-plain.svg" alt="mocha" width="40" height="40"/>
-<img src="./assets/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<img src="./assets/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="./assets/nestjs-plain-wordmark.svg" alt="nest.js" width="40" height="40"/>
-<img src="./assets/nextjs-original-wordmark.svg" alt="next.js" width="40" height="40"/>
-<img src="./assets/nginx-original.svg" alt="nginx" width="40" height="40"/>
-<img src="./assets/nodejs-original-wordmark.svg" alt="node.js" width="40" height="40"/>
-<img src="./assets/php-original.svg" alt="php" width="40" height="40"/>
-<img src="./assets/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-<img src="./assets/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/>
-<img src="./assets/rabbitmq-wordmark.svg" alt="RabbitMQ" width="40" height="40"/>
-<img src="./assets/react-original.svg" alt="react" width="40" height="40"/>
-<img src="./assets/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-<img src="./assets/redux-original.svg" alt="redux" width="40" height="40"/>
-<img src="./assets/sass-original.svg" alt="sass" width="40" height="40"/>
-<img src="./assets/spring-original-wordmark.svg" alt="spring" width="40" height="40"/>
-<img src="./assets/symfony-original-wordmark.svg" alt="symfony" width="40" height="40"/>
+## Skills
+
+### Programming Languages
+
 <img src="./assets/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="./assets/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40"/>
-<img src="./assets/vagrant-original.svg" alt="vagrant" width="40" height="40"/>
+<img src="./assets/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="./assets/php-original.svg" alt="php" width="40" height="40"/>
+<img src="./assets/bash-original.svg" alt="bash" width="40" height="40"/>
+<img src="./assets/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="./assets/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="./assets/sass-original.svg" alt="sass" width="40" height="40"/>
+<img src="./assets/dart-original.svg" alt="dart" width="40" height="40"/>
+<img src="./assets/csharp-original.svg" alt="c-sharp" width="40" height="40"/>
+<img src="./assets/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+
+### Frontend Development
+
+<img src="./assets/react-original.svg" alt="react" width="40" height="40"/>
+<img src="./assets/nextjs-original-wordmark.svg" alt="next.js" width="40" height="40"/>
+<img src="./assets/angularjs-original.svg" alt="angular" width="40" height="40" />
+<img src="./assets/vuejs-original.svg" alt="vue" width="40" height="40" />
+<img src="./assets/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+<img src="./assets/materialize.svg" alt="materialize" width="40" height="40"/>
+<img src="./assets/redux-original.svg" alt="redux" width="40" height="40"/>
 <img src="./assets/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
-</p>
+
+### Backend Development
+
+<img src="./assets/nodejs-original-wordmark.svg" alt="node.js" width="40" height="40"/>
+<img src="./assets/nestjs-plain-wordmark.svg" alt="nest.js" width="40" height="40"/>
+<img src="./assets/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+<img src="./assets/graphql-plain.svg" alt="graphql" width="40" height="40"/>
+<img src="./assets/docker-original.svg" alt="docker" width="40" height="40"/>
+<img src="./assets/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+<img src="./assets/symfony-original-wordmark.svg" alt="symfony" width="40" height="40"/>
+<img src="./assets/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/>
+<img src="./assets/spring-original-wordmark.svg" alt="spring" width="40" height="40"/>
+
+### Cross Platform Development
+
+<img src="./assets/electron-original.svg" alt="electron" width="40" height="40"/>
+<img src="./assets/flutter-original.svg" alt="flutter" width="40" height="40"/>
+
+### Database
+
+<img src="./assets/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+<img src="./assets/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+<img src="./assets/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+<img src="./assets/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
+<img src="./assets/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img src="./assets/oracle-original.svg" alt="oracle" width="40" height="40"/>
+<img src="./assets/rabbitmq-wordmark.svg" alt="RabbitMQ" width="40" height="40"/>
+<img src="./assets/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+<img src="./assets/firebase-plain.svg" alt="firebase" width="40" height="40"/>
+
+### Testing
+
+<img src="./assets/cypress-io-logo-round.svg" alt="cypress" width="40" height="40"/>
+<img src="./assets/jest-plain.svg" alt="jest" width="40" height="40"/>
+<img src="./assets/mocha-plain.svg" alt="mocha" width="40" height="40"/>
+<img src="./assets/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/>
+
+### Other
+
+<img src="./assets/git-original.svg" alt="git" width="40" height="40"/>
+<img src="./assets/linux-original.svg" alt="linux" width="40" height="40"/>
+<img src="./assets/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40"/>
+<img src="./assets/nginx-original.svg" alt="nginx" width="40" height="40"/>
+<img src="./assets/vagrant-original.svg" alt="vagrant" width="40" height="40"/>
+<img src="./assets/figma-original.svg" alt="figma" width="40" height="40"/>
 
 <center>
 
