@@ -108,80 +108,39 @@
   "skills": [
     {
       "name": "Web development",
-      "level": "Master",
-      "keywords": ["HTML", "CSS", "Javascript", "SASS", "Typescript"]
+      "keywords": ["HTML", "CSS", "JS", "SASS", "TS"]
     },
     {
       "name": "Front-end framework",
-      "level": "Master",
-      "keywords": ["React", "Next.js", "Vue", "Nuxt", "Astro"]
+      "keywords": ["React", "Next.js", "Vue", "Nuxt"]
     },
     {
       "name": "Back-end framework",
-      "level": "Master",
-      "keywords": [
-        "Nest.js",
-        "Express",
-        "GraphQL Yoga",
-        "Koa",
-        "Laravel",
-        "Symfony",
-        "FastAPI"
-      ]
+      "keywords": ["Nest.js", "Express", "Koa"]
     },
     {
       "name": "Database",
-      "level": "Master",
-      "keywords": [
-        "PostgreSQL",
-        "SQL Server",
-        "MySQL",
-        "MariaDB",
-        "Oracle",
-        "MongoDB",
-        "Redis",
-        "OrientDB",
-        "ElasticSearch"
-      ]
+      "keywords": ["PostgreSQL", "MongoDB", "Redis"]
     },
     {
       "name": "Unit testing",
-      "level": "Master",
-      "keywords": ["Jest", "Vitest", "Mocha", "Stryker", "AVA", "fast-check"]
+      "keywords": ["Jest", "Vitest", "Mocha"]
     },
     {
       "name": "E2E testing",
-      "level": "Master",
-      "keywords": ["Cypress", "Playwright", "Puppeteer", "CodeceptJS"]
+      "keywords": ["Cypress", "Playwright", "Puppeteer"]
     },
     {
-      "name": "Operative System",
-      "level": "Master",
-      "keywords": ["Windows", "GNU/Linux", "MacOS"]
-    },
-    {
-      "name": "Cross application framework",
-      "level": "Beginner",
-      "keywords": ["Apache Cordova", "React Native", "Flutter", "Electron"]
+      "name": "Hybrid framework",
+      "keywords": ["React Native", "Electron", "Flutter"]
     },
     {
       "name": "DevOps",
-      "level": "Master",
       "keywords": ["Docker", "Vagrant", "Ansible", "Git"]
     },
     {
       "name": "Server",
-      "level": "Advanced",
-      "keywords": [
-        "Apache2",
-        "NGINX",
-        "HAProxy",
-        "Memcached",
-        "NetData",
-        "Monit",
-        "GrusterFS",
-        "RabbitMQ"
-      ]
+      "keywords": ["NetData", "Monit", "RabbitMQ"]
     }
   ]
 }
