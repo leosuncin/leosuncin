@@ -1,0 +1,187 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Jaime Leonardo Suncin Cruz",
+    "label": "Full stack developer (Node.js)",
+    "image": "https://www.dropbox.com/s/qzlscwb8h55jsbv/picture.jpg?dl=1",
+    "email": "leosuncin@gmail.com",
+    "phone": "(503) 7223-7970",
+    "url": "https://github.com/leosuncin",
+    "location": {
+      "address": "Cantón Santa Lucia, primera zona",
+      "postalCode": "104030120",
+      "city": "Ciudad Arce",
+      "region": "La Libertad",
+      "countryCode": "SV"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "jl_suncin",
+        "url": "https://twitter.com/jl_suncin"
+      },
+      {
+        "network": "GitHub",
+        "username": "leosuncin",
+        "url": "https://github.com/leosuncin"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "jaimesuncin",
+        "url": "https://www.linkedin.com/in/jaimesuncin/"
+      },
+      {
+        "network": "Facebook",
+        "username": "jl.suncin",
+        "url": "https://fb.com/jl.suncin"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "University of El Salvador",
+      "area": "Information systems",
+      "studyType": "Engineer",
+      "startDate": "2008",
+      "endDate": "2020"
+    },
+    {
+      "institution": "National Technical Industrial Institute",
+      "area": "Repair and fixing computers",
+      "studyType": "Bachelor",
+      "startDate": "2005",
+      "endDate": "2007"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced level (B1, 1+)"
+    }
+  ],
+  "work": [
+    {
+      "name": "Telus International",
+      "position": "Senior front-end developer",
+      "startDate": "2020-09",
+      "endDate": "2021-05",
+      "summary": "Work on Telus International's internal applications, implement changes in the application for booking services of installation and maintenance of telecommunication services.",
+      "location": "Antiguo Cuscatlán, La Libertad"
+    },
+    {
+      "name": "STB Group",
+      "position": "Web developer",
+      "startDate": "2019-04",
+      "endDate": "2020-06",
+      "summary": "Creation and maintenance of automatic software tests, working in several different projects for clients in the USA.",
+      "location": "San Salvador, San Salvador"
+    },
+    {
+      "name": "DYGESTIC",
+      "position": "Analyst programmer",
+      "startDate": "2018-04",
+      "endDate": "2018-06",
+      "summary": "Technical support, report generation and data mining for the «Cultura de paz» survey for USAID",
+      "location": "Ciudad Delgado, San Salvador"
+    },
+    {
+      "name": "DYGESTIC",
+      "position": "Analyst programmer",
+      "startDate": "2017-05",
+      "endDate": "2017-12",
+      "summary": "Development of the mobile application «Empleo para ti» in conjunction with the Ministry of Labor and Social Welfare.\nDevelopment of a mobile application to keep track the changes of the price of products from the basic basket.",
+      "location": "Ciudad Delgado, San Salvador"
+    },
+    {
+      "name": "Kadevjo Studio",
+      "position": "Full stack developer",
+      "startDate": "2014-08",
+      "endDate": "2015-09",
+      "summary": "Development of a crowdfunding platform for multimedia projects (called nerdeo).",
+      "location": "San Salvador, San Salvador"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web development",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "Javascript", "SASS", "Typescript"]
+    },
+    {
+      "name": "Front-end framework",
+      "level": "Master",
+      "keywords": ["React", "Next.js", "Vue", "Nuxt", "Astro"]
+    },
+    {
+      "name": "Back-end framework",
+      "level": "Master",
+      "keywords": [
+        "Nest.js",
+        "Express",
+        "GraphQL Yoga",
+        "Koa",
+        "Laravel",
+        "Symfony",
+        "FastAPI"
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "Master",
+      "keywords": [
+        "PostgreSQL",
+        "SQL Server",
+        "MySQL",
+        "MariaDB",
+        "Oracle",
+        "MongoDB",
+        "Redis",
+        "OrientDB",
+        "ElasticSearch"
+      ]
+    },
+    {
+      "name": "Unit testing",
+      "level": "Master",
+      "keywords": ["Jest", "Vitest", "Mocha", "Stryker", "AVA", "fast-check"]
+    },
+    {
+      "name": "E2E testing",
+      "level": "Master",
+      "keywords": ["Cypress", "Playwright", "Puppeteer", "CodeceptJS"]
+    },
+    {
+      "name": "Operative System",
+      "level": "Master",
+      "keywords": ["Windows", "GNU/Linux", "MacOS"]
+    },
+    {
+      "name": "Cross application framework",
+      "level": "Beginner",
+      "keywords": ["Apache Cordova", "React Native", "Flutter", "Electron"]
+    },
+    {
+      "name": "DevOps",
+      "level": "Master",
+      "keywords": ["Docker", "Vagrant", "Ansible", "Git"]
+    },
+    {
+      "name": "Server",
+      "level": "Advanced",
+      "keywords": [
+        "Apache2",
+        "NGINX",
+        "HAProxy",
+        "Memcached",
+        "NetData",
+        "Monit",
+        "GrusterFS",
+        "RabbitMQ"
+      ]
+    }
+  ]
+}
